@@ -22,6 +22,7 @@
 ### Udacity Introduction to Java
 
 [http://horstmann.com/sjsu/cs046/](http://horstmann.com/sjsu/cs046/)
+
 ---
 </p>
 </details>
