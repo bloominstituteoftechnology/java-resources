@@ -29,7 +29,11 @@
 
 <details><summary>Good Reference Websites</summary>
 <p>
-  
+### Survival Guide for Java Web20
+
+[https://www.gettoby.com/p/3hk9v0vk0q5g](https://www.gettoby.com/p/3hk9v0vk0q5g)
+
+---
 ### Specific Lambda Java Class Info Done by a Former Student
 
 [https://github.com/austie702/java-glossary-tutorial.git](https://github.com/austie702/java-glossary-tutorial.git)
