@@ -55,6 +55,11 @@
 [https://www.geeksforgeeks.org/java/](https://www.geeksforgeeks.org/java/)
 
 ---
+### Common Java Errors
+
+[http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html](http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html)
+
+---
 </p>
 </details>
 
