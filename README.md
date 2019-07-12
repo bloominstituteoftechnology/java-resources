@@ -130,6 +130,7 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 
 ---
 </p>
+</details>
 <details><summary>PostgreSQL and other topics</summary>
 <p>
   
