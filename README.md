@@ -115,6 +115,21 @@
 </p>
 </details>
 
+<details><summary>Java Practice</summary>
+<p>
+
+### Space Battle Arena
+Fun practice with Java! Requires some setting up and 2+ people for best results
+
+[http://mikeware.github.io/SpaceBattleArena/](http://mikeware.github.io/SpaceBattleArena/)
+
+---
+### Code Wars
+
+[https://www.codewars.com/](https://www.codewars.com/)
+
+---
+</p>
 <details><summary>PostgreSQL and other topics</summary>
 <p>
   
