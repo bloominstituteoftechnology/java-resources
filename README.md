@@ -11,7 +11,7 @@
 ---
 ### Princenton On-line Textbook
 
-[https://introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/
+[https://introcs.cs.princeton.edu/java/home](https://introcs.cs.princeton.edu/java/home/
 
 ---
 ### Simplified Java Tutorial
