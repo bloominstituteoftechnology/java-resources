@@ -14,6 +14,11 @@
 [https://introcs.cs.princeton.edu/java/home](https://introcs.cs.princeton.edu/java/home/)
 
 ---
+### How To Do It In Java
+
+[https://howtodoinjava.com](https://howtodoinjava.com)
+
+---
 ### Simplified Java Tutorial
 
 [https://www.w3schools.com/java/](https://www.w3schools.com/java/)
