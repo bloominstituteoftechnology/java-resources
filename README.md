@@ -157,8 +157,12 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 </p>
 </details>
 
-<details><summary>ANNEX - additional - Videos by John Mitchell</summary>
+<details><summary>Other Useful Videos</summary>
 <p>
+
+### Java in 60 Minutes
+
+[https://youtu.be/3Ky9MZyL8r4](https://youtu.be/3Ky9MZyL8r4)
 
 ---
 </p>
