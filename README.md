@@ -136,7 +136,7 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ---
 </p>
 </details>
-<details><summary>PostgreSQL and other topics</summary>
+<details><summary>Other Useful Topics</summary>
 <p>
   
 ### THE Online PostgreSQL Tutorial
@@ -152,6 +152,14 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ### JetBrains IntelliJ IDEA IDE
 
 [https://www.jetbrains.com/help/idea/getting-started.html](https://www.jetbrains.com/help/idea/getting-started.html)
+
+---
+</p>
+</details>
+
+---
+### How to Unfork a repo on GitHub
+[https://dev.to/nickymeuleman/how-to-unfork-a-repo-on-github-2a8](https://dev.to/nickymeuleman/how-to-unfork-a-repo-on-github-2a8)
 
 ---
 </p>
