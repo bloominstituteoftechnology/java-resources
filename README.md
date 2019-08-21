@@ -68,6 +68,15 @@
 </p>
 </details>
 
+---
+### On Going Glossary for JX (started by Austin Howes)
+
+[https://github.com/austie702/java-glossary-tutorial.git](https://github.com/austie702/java-glossary-tutorial.git)
+
+---
+</p>
+</details>
+
 <details><summary>Good Blogs to Search and Follow</summary>
 <p>
   
