@@ -65,10 +65,6 @@
 [http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html](http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html)
 
 ---
-</p>
-</details>
-
----
 ### On Going Glossary for JX (started by Austin Howes)
 
 [https://github.com/austie702/java-glossary-tutorial.git](https://github.com/austie702/java-glossary-tutorial.git)
@@ -161,10 +157,6 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ### JetBrains IntelliJ IDEA IDE
 
 [https://www.jetbrains.com/help/idea/getting-started.html](https://www.jetbrains.com/help/idea/getting-started.html)
-
----
-</p>
-</details>
 
 ---
 ### How to Unfork a repo on GitHub
