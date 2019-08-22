@@ -174,5 +174,11 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 [https://youtu.be/3Ky9MZyL8r4](https://youtu.be/3Ky9MZyL8r4)
 
 ---
+
+### Moving beyond REST: GraphQL and Java with Pratik Patel - Denver JUG Jan 2019
+
+[https://youtu.be/Y9g4j1nsFS0](https://youtu.be/Y9g4j1nsFS0)
+
+---
 </p>
 </details>
