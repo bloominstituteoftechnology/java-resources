@@ -186,3 +186,14 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ---
 </p>
 </details>
+
+<details><summary></summary>
+<p>
+
+### Java job market trends for 2019 from Recallact
+
+[https://www.recallact.com/presentation/java-job-market-trends-2019](https://www.recallact.com/presentation/java-job-market-trends-2019)
+
+---
+</p>
+</details>
