@@ -29,6 +29,11 @@
 [http://horstmann.com/sjsu/cs046/](http://horstmann.com/sjsu/cs046/)
 
 ---
+### Java in 60 Minutes
+
+[https://youtu.be/3Ky9MZyL8r4](https://youtu.be/3Ky9MZyL8r4)
+
+---
 </p>
 </details>
 
@@ -170,14 +175,8 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 </p>
 </details>
 
-<details><summary>Other Useful Videos</summary>
+<details><summary>Other Java Related Topics (videos)</summary>
 <p>
-
-### Java in 60 Minutes
-
-[https://youtu.be/3Ky9MZyL8r4](https://youtu.be/3Ky9MZyL8r4)
-
----
 
 ### Moving beyond REST: GraphQL and Java with Pratik Patel - Denver JUG Jan 2019
 
@@ -193,6 +192,12 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ### Java job market trends for 2019 from Recallact
 
 [https://www.recallact.com/presentation/java-job-market-trends-2019](https://www.recallact.com/presentation/java-job-market-trends-2019)
+
+---
+
+### Companies Using Java from Stackshare
+
+[https://stackshare.io/java](https://stackshare.io/java)
 
 ---
 </p>
