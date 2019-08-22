@@ -60,6 +60,10 @@
 [https://www.geeksforgeeks.org/java/](https://www.geeksforgeeks.org/java/)
 
 ---
+### Java interview prep: 15 Java interview questions
+[https://blog.educative.io/15-java-interview-questions/](https://blog.educative.io/15-java-interview-questions/)
+
+---
 ### Common Java Errors
 
 [http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html](http://cs-people.bu.edu/dgs/courses/cs111-old/assignments/errors.html)
