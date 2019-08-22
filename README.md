@@ -187,7 +187,7 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 </p>
 </details>
 
-<details><summary></summary>
+<details><summary>Java Job Info</summary>
 <p>
 
 ### Java job market trends for 2019 from Recallact
