@@ -34,6 +34,11 @@
 [https://youtu.be/3Ky9MZyL8r4](https://youtu.be/3Ky9MZyL8r4)
 
 ---
+### Udemy Java Programming Masterclass for Software Developers (around $10.00)
+
+[https://www.udemy.com/java-the-complete-java-developer-course/?couponCode=LPA-JAVA-MCLASS](https://www.udemy.com/java-the-complete-java-developer-course/?couponCode=LPA-JAVA-MCLASS)
+
+---
 </p>
 </details>
 
