@@ -1,4 +1,5 @@
-# Lambda School Web API: Java Course 
+# Lambda School Web API: Java Course
+
 ## Good Resources for Studying Java
 
 <details><summary>Tutorials for Learning Core Java</summary>
@@ -41,6 +42,8 @@
 ---
 </p>
 </details>
+
+---
 
 <details><summary>Good Reference Websites</summary>
 <p>
@@ -87,6 +90,8 @@
 </p>
 </details>
 
+---
+
 <details><summary>Good Blogs to Search and Follow</summary>
 <p>
   
@@ -113,6 +118,8 @@
 </p>
 </details>
 
+---
+
 <details><summary>Good Books</summary>
 <p>
 
@@ -138,6 +145,8 @@
 ---
 </p>
 </details>
+
+---
 
 <details><summary>Java Practice</summary>
 <p>
@@ -180,6 +189,8 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 </p>
 </details>
 
+---
+
 <details><summary>Other Java Related Topics (videos)</summary>
 <p>
 
@@ -190,6 +201,8 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ---
 </p>
 </details>
+
+---
 
 <details><summary>Java Job Info</summary>
 <p>
@@ -203,6 +216,165 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ### Companies Using Java from Stackshare
 
 [https://stackshare.io/java](https://stackshare.io/java)
+
+---
+</p>
+</details>
+
+## Supplementary Materials for the Web API: Java Course at Lambda School
+
+<details><summary>Week 1</summary>
+<p>
+<details><summary>Day 1</summary>
+<p>
+Information for Day 1
+
+---
+</p>
+</details>
+<details><summary>Day 2</summary>
+<p>
+Information for Day 2
+
+---
+</p>
+</details>
+
+<details><summary>Day 3</summary>
+<p>
+Information for Day 3
+
+---
+</p>
+</details>
+
+<details><summary>Day 4</summary>
+<p>
+Information for Day 4
+
+---
+</p>
+</details>
+</p>
+</details>
+
+---
+
+<details><summary>Week 2</summary>
+<p>
+<details><summary>Day 1</summary>
+<p>
+Information for Day 1
+
+---
+</p>
+</details>
+<details><summary>Day 2</summary>
+<p>
+Information for Day 2
+
+---
+</p>
+</details>
+
+<details><summary>Day 3</summary>
+<p>
+Information for Day 3
+
+---
+</p>
+</details>
+
+<details><summary>Day 4</summary>
+<p>
+Information for Day 4
+
+---
+</p>
+</details>
+</p>
+</details>
+
+---
+
+<details><summary>Week 3</summary>
+<p>
+<details><summary>Day 1</summary>
+<p>
+Information for Day 1
+
+---
+</p>
+</details>
+<details><summary>Day 2</summary>
+<p>
+Information for Day 2
+
+---
+</p>
+</details>
+
+<details><summary>Day 3</summary>
+<p>
+Information for Day 3
+
+---
+</p>
+</details>
+
+<details><summary>Day 4</summary>
+<p>
+Information for Day 4
+
+---
+</p>
+</details>
+</p>
+</details>
+
+---
+
+<details><summary>Week 4</summary>
+<p>
+<details><summary>Day 1</summary>
+<p>
+Information for Day 1
+
+---
+</p>
+</details>
+<details><summary>Day 2</summary>
+<p>
+Information for Day 2
+
+---
+</p>
+</details>
+
+<details><summary>Day 3</summary>
+<p>
+Information for Day 3
+
+---
+</p>
+</details>
+
+<details><summary>Day 4</summary>
+<p>
+Information for Day 4
+
+---
+</p>
+</details>
+
+---
+</p>
+</details>
+
+<details><summary>And onward</summary>
+<p>
+  
+### More Topics to follow
 
 ---
 </p>
