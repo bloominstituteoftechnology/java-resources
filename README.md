@@ -43,8 +43,6 @@
 </p>
 </details>
 
----
-
 <details><summary>Good Reference Websites</summary>
 <p>
   
@@ -90,8 +88,6 @@
 </p>
 </details>
 
----
-
 <details><summary>Good Blogs to Search and Follow</summary>
 <p>
   
@@ -118,8 +114,6 @@
 </p>
 </details>
 
----
-
 <details><summary>Good Books</summary>
 <p>
 
@@ -145,8 +139,6 @@
 ---
 </p>
 </details>
-
----
 
 <details><summary>Java Practice</summary>
 <p>
@@ -188,8 +180,6 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 ---
 </p>
 </details>
-
----
 
 <details><summary>Other Java Related Topics (videos)</summary>
 <p>
