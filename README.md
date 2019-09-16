@@ -192,8 +192,6 @@ Fun practice with Java! Requires some setting up and 2+ people for best results
 </p>
 </details>
 
----
-
 <details><summary>Java Job Info</summary>
 <p>
 
@@ -245,10 +243,9 @@ Information for Day 4
 ---
 </p>
 </details>
+---
 </p>
 </details>
-
----
 
 <details><summary>Week 2</summary>
 <p>
@@ -282,10 +279,9 @@ Information for Day 4
 ---
 </p>
 </details>
+---
 </p>
 </details>
-
----
 
 <details><summary>Week 3</summary>
 <p>
@@ -319,10 +315,9 @@ Information for Day 4
 ---
 </p>
 </details>
+---
 </p>
 </details>
-
----
 
 <details><summary>Week 4</summary>
 <p>
